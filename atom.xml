@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-01T02:28:32.543Z</updated>
+  <updated>2022-01-13T03:27:22.506Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>童年小霸王游戏</title>
+    <link href="http://example.com/2022/01/13/%E7%AB%A5%E5%B9%B4%E5%B0%8F%E9%9C%B8%E7%8E%8B/"/>
+    <id>http://example.com/2022/01/13/%E7%AB%A5%E5%B9%B4%E5%B0%8F%E9%9C%B8%E7%8E%8B/</id>
+    <published>2022-01-13T02:49:30.164Z</published>
+    <updated>2022-01-13T03:27:22.506Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="小霸王，其乐无穷-愿我们找回童年的快乐"><a href="#小霸王，其乐无穷-愿我们找回童年的快乐" class="headerlink" title="小霸王，其乐无穷 愿我们找回童年的快乐"></a>小霸王，其乐无穷 愿我们找回童年的快乐</h1><p>&emsp;&emsp; <font color=#0099ff size=5 face="黑体">  <a href="https://www.yikm.net/">https://www.yikm.net</a> </font></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;小霸王，其乐无穷-愿我们找回童年的快乐&quot;&gt;&lt;a href=&quot;#小霸王，其乐无穷-愿我们找回童年的快乐&quot; class=&quot;headerlink&quot; title=&quot;小霸王，其乐无穷 愿我们找回童年的快乐&quot;&gt;&lt;/a&gt;小霸王，其乐无穷 愿我们找回童年的快乐&lt;/h1&gt;&lt;p&gt;&amp;e</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>洛雪助手音乐</title>
+    <link href="http://example.com/2022/01/12/%E9%9F%B3%E4%B9%90%E8%BD%AF%E4%BB%B6/"/>
+    <id>http://example.com/2022/01/12/%E9%9F%B3%E4%B9%90%E8%BD%AF%E4%BB%B6/</id>
+    <published>2022-01-12T06:14:05.543Z</published>
+    <updated>2022-01-13T03:24:48.800Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="先前声明"><a href="#先前声明" class="headerlink" title="先前声明"></a>先前声明</h1><p>&emsp;&emsp; 👨‍🚀本人仅做分享心态分享，没有恶意搬运的意思，如有冒犯联系侵删！！！</p><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>&emsp;&emsp; -github开发的洛雪音乐助手，一个基于 Electron + Vue 开发的音乐软件。</p><h2 id="软件说明"><a href="#软件说明" class="headerlink" title="软件说明"></a>软件说明</h2><p>&emsp;&emsp; 🍖下载 支持 Android安卓🐱‍👤pc客户端 Windows7及以上、 MacOS、Linux ☆ 软件支持音乐平台 扣扣音乐、网易云音乐、酷狗音乐、酷我音乐、咪咕音乐、百度音乐（千QIAN音乐）</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="/img/%E9%93%BE%E6%8E%A5%E7%B4%A0%E6%9D%90/%E6%B4%9B%E9%9B%AA.png"></p><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><p>   &emsp;   🔗官网链接：<a href="https://www.lanzoui.com/b0bf2cfa/">https://www.lanzoui.com/b0bf2cfa/</a>     &emsp;仓库源：<a href="https://github.com/lyswhut/lx-music-desktop">https://github.com/lyswhut/lx-music-desktop</a><br>   &emsp;   ⛓提取密码：<font color=#0099ff size=5 face="黑体">glqw</font><br>   &emsp;   💻win系统建议使用后缀为-x64-Setup.exe的安装版，方便迭代更新<br>   &emsp;   📗后缀为green为绿色免安装解压版<br>   &emsp;   📱安卓后缀为apk为安卓版 &emsp; 注意含arm为linux系统<br>   &emsp;   🔗洛雪音乐助手+六音自定义音源&emsp;请移驾—-&gt;&gt;&gt; &emsp;六音官网:<a href="https://www.6yit.com/8498.html">https://www.6yit.com/8498.html</a>   &emsp;接口支持无损音质下载</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;先前声明&quot;&gt;&lt;a href=&quot;#先前声明&quot; class=&quot;headerlink&quot; title=&quot;先前声明&quot;&gt;&lt;/a&gt;先前声明&lt;/h1&gt;&lt;p&gt;&amp;emsp;&amp;emsp; 👨‍🚀本人仅做分享心态分享，没有恶意搬运的意思，如有冒犯联系侵删！！！&lt;/p&gt;
+&lt;h2 id=</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
